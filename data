@@ -1,0 +1,12 @@
+{
+  "firstName": "Yurii",
+  "lastName": "Gorbylov",
+  "contactInfo": {
+    "email": "yuriygorbylov@gmail.com",
+    "phoneNumber": "+38(063)195-51-31"
+  },
+  "skills": [
+    "java8",
+    "scala"
+  ]
+}
